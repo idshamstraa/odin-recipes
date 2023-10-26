@@ -1,0 +1,12 @@
+.hover:hover {
+    background-color: gold;
+    color: #fff;
+}
+
+* body {
+    background-color: orangered;
+}
+
+.title{
+    font-family: 'Courier New', Times, serif;
+}
