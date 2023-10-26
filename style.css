@@ -2,11 +2,25 @@
     background-color: gold;
     color: #fff;
 }
+/* Add a hover effect on the links on the homepage */
 
 * body {
     background-color: orangered;
 }
 
+
 .title{
     font-family: 'Courier New', Times, serif;
+    text-align: center;
+}
+
+/* Font sizes and align text center */
+
+.container {
+    list-style: none; /* Remove list item bullets/dots */
+    padding: 0; /* Remove default padding */
+}
+
+.text-center {
+    text-align: center; /* Center the text within the div */
 }
